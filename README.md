@@ -2,11 +2,11 @@
   <img src="https://github.com/ankithkumar08/Images/blob/main/what-is-data-analyst.jpg" alt="Data Analytics Background" style="width:30%; max-width:200px; height:auto;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm ANKITHKUMAR</h1>
+<h1 align="center">Hi 👋, I'm NAVYASRI</h1>
 <h3 align="center">A passionate data Analyst</h3>
 
 - 🔭 I’m currently working on the project of 
-**Hospital_management_system**
+**Weast_management_system**
 **sql**
 
 - 🌱 I’m currently learning **Data Analytics**
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **SQL query**
 
-- 📫 How to reach me **ankithkumarchillapalli@gmail.com**
+- 📫 How to reach me **navyasrichillapalli123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
